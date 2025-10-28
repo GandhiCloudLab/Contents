@@ -42,7 +42,6 @@
         <td>Terraform</td>
         <td><a href="./doc/07-terraform.md">Link</a></td>
    </tr>   
-      </tr>    
        <tr>
         <td>8</td>
         <td>Websphere / Cloud Pak for Application </td>
@@ -74,4 +73,12 @@
         <td>MultiCloud Manager</td>
         <td><a href="./doc/13-mcm.md">Link</a></td>
    </tr>
+   </tr>
+       <tr>
+        <td>14</td>
+        <td>IBM Integration</td>
+        <td><a href="./doc/14-Ibm-integration.md">Link</a></td>
+   </tr>
+
+
 </table>
