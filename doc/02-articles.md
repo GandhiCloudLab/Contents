@@ -14,8 +14,8 @@ IBM Developer, Recipes, Community articles and Github documentations created by 
         <td>1</td>
         <td>Deploying and Accessing Remote MCP Server toolkit</td>
         <td>Watsonx Orchestrate</td>
-        <td><a href="https://github.com/GandhiCloudLab/ibm-watsonx-orchestrate">Article</a></td>
-   </tr>  
+        <td><a href="https://github.com/GandhiCloudLab/ibm-watsonx-orchestrate/tree/main/003-mcp-gpro-app-remote">Tutorial</a></td>
+   </tr>
     <tr>
         <td>2</td>
         <td>Installing API Connect in Azure Kubernetes Service (AKS)</td>
