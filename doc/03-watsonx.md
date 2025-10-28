@@ -7,6 +7,22 @@
         <th>Topic</th>
         <th>Links</th>
     </thead>
+
+    
+
+    <tr>
+        <td>1</td>
+        <td>Watsonx Orchestrate </td>
+        <td>Watsonx Orchestrate</td>
+        <td><a href="https://github.com/GandhiCloudLab/ibm-watsonx-orchestrate">Article</a></td>
+   </tr>  
+    <tr>
+        <td>1</td>
+        <td>Watsonx Orchestrate</td>
+        <td>Deploying and Accessing Remote MCP Server toolkit</td>
+        <td><a href="https://github.com/GandhiCloudLab/ibm-watsonx-orchestrate">Article</a></td>
+   </tr>  
+
     <tr>
         <td>1</td>
         <td>Watsonx </td>
