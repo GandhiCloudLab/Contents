@@ -19,7 +19,7 @@
    </tr>    
        <tr>
         <td>3</td>
-        <td>Watsonx AI</td>
+        <td>Watsonx AI, Watsonx Orchestrate, Generative AI</td>
         <td><a href="./doc/03-watsonx.md">Link</a></td>
    </tr>     
     <tr>

@@ -17,5 +17,16 @@
         <td>2</td>
         <td>Integrating Aquasec Trivy in Cloud Native Toolkit for DevSecOps </td>
         <td><a href="https://github.com/GandhiCloudLab/devsecops-trivy-in-cloudnativetoolkit">Link</a></td>
-   </tr> 
+   </tr>
+    <tr>
+        <td>3</td>
+        <td>Argo-App-ilender </td>
+        <td><a href="https://github.com/GandhiCloudLab/argo-app-ilender">Link</a></td>
+   </tr>     
+    <tr>
+        <td>4</td>
+        <td>Deploy iLender app with GitOps using ArgoCD and Kustomize </td>
+        <td><a href="https://github.com/GandhiCloudLab/argo-app-ilender-kustomize">Link</a></td>
+   </tr>
+
 </table>
