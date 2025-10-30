@@ -7,48 +7,44 @@
         <th>Topic</th>
         <th>Links</th>
     </thead>
-
-    
-
-    <tr>
-        <td>1</td>
-        <td>Watsonx Orchestrate </td>
-        <td>Watsonx Orchestrate</td>
-        <td><a href="https://github.com/GandhiCloudLab/ibm-watsonx-orchestrate">Article</a></td>
-   </tr>  
     <tr>
         <td>1</td>
         <td>Watsonx Orchestrate</td>
         <td>Deploying and Accessing Remote MCP Server toolkit</td>
-        <td><a href="https://github.com/GandhiCloudLab/ibm-watsonx-orchestrate">Article</a></td>
-   </tr>  
-
-    <tr>
-        <td>1</td>
-        <td>Watsonx </td>
-        <td>Sqls in LLM</td>
-        <td><a href="https://github.com/GandhiCloudLab/watsonx/tree/main/001-sqls-in-llm">Article</a></td>
+        <td><a href="https://github.com/GandhiCloudLab/ibm-watsonx-orchestrate/tree/main/003-mcp-gpro-app-remote">Article</a></td>
    </tr>  
     <tr>
         <td>2</td>
-        <td>Watsonx </td>
-        <td>IBM watsonx.ai Partner Onboarding </td>
-        <td><a href="https://github.com/GandhiCloudLab/watsonx-ai-partner-onboarding">Tutorial</a></td>
+        <td>Watsonx Orchestrate </td>
+        <td>watsonx Orchestrate Flow builder - Finding News Alerts between cities</td>
+        <td><a href="https://github.com/GandhiCloudLab/ibm-watsonx-orchestrate/tree/main/020-flow">Article</a></td>
    </tr>  
     <tr>
         <td>3</td>
-        <td>Watson Assistant </td>
-        <td>Creating Custom Extension in Watson Assistant</td>
-        <td><a href="https://github.com/GandhiCloudLab/watson-assistant-custom-extension">Tutorial</a></td>
-   </tr>  
-    <tr>
-        <td>4</td>
         <td>Watson Assistant </td>
         <td>Watsonx Maximo Assistant</td>
         <td><a href="https://github.com/GandhiCloudLab/wealthcare-monolith-app">Article</a></td>
    </tr>
     <tr>
+        <td>4</td>
+        <td>Watson Assistant </td>
+        <td>Creating Custom Extension in Watson Assistant</td>
+        <td><a href="https://github.com/GandhiCloudLab/watson-assistant-custom-extension">Tutorial</a></td>
+   </tr>  
+    <tr>
         <td>5</td>
+        <td>Watsonx </td>
+        <td>Sqls in LLM</td>
+        <td><a href="https://github.com/GandhiCloudLab/watsonx/tree/main/001-sqls-in-llm">Article</a></td>
+   </tr>  
+    <tr>
+        <td>6</td>
+        <td>Watsonx </td>
+        <td>IBM watsonx.ai Partner Onboarding </td>
+        <td><a href="https://github.com/GandhiCloudLab/watsonx-ai-partner-onboarding">Tutorial</a></td>
+   </tr>  
+    <tr>
+        <td>7</td>
         <td>Watson Assistant Backup </td>
         <td>How to take Watson Assistant Backup</td>
         <td><a href="https://github.com/GandhiCloudLab/ibm-cloud/tree/main/01-watosn-assistant-backup">Article</a></td>
