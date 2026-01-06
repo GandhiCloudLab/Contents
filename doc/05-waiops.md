@@ -178,9 +178,7 @@
    </tr> 
 </table>
 
-## Teraforms
-
-
+## Terraform for WAIOps Install
 
 
 <table>
