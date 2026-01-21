@@ -18,6 +18,12 @@ IBM Developer, Recipes, Community articles and Github documentations created by 
    </tr>
     <tr>
         <td>2</td>
+        <td>Watsonx Orchestrate </td>
+        <td>watsonx Orchestrate Flow builder - Finding News Alerts between cities</td>
+        <td><a href="https://github.com/GandhiCloudLab/ibm-watsonx-orchestrate/tree/main/020-flow">Article</a></td>
+   </tr>     
+    <tr>
+        <td>3</td>
         <td>Installing API Connect in Azure Kubernetes Service (AKS)</td>
         <td>IBM API Connect</td>
         <td>
@@ -25,7 +31,7 @@ IBM Developer, Recipes, Community articles and Github documentations created by 
         </td>
    </tr>    
     <tr>
-        <td>3</td>
+        <td>4</td>
         <td>Application Modernization Accelerator (AMA) Installation</td>
         <td>Cloud Pak for Apps</td>
         <td>
@@ -33,7 +39,7 @@ IBM Developer, Recipes, Community articles and Github documentations created by 
         </td>
    </tr> 
     <tr>
-        <td>4</td>
+        <td>5</td>
         <td>Application Modernization Accelerator (AMA) in Detail</td>
         <td>Cloud Pak for Apps</td>
         <td>
@@ -41,7 +47,7 @@ IBM Developer, Recipes, Community articles and Github documentations created by 
         </td>
    </tr> 
     <tr>
-        <td>5</td>
+        <td>6</td>
         <td>Application Modernization Accelerator (AMA) in EASeJ</td>
         <td>EASeJ</td>
         <td>
@@ -49,7 +55,7 @@ IBM Developer, Recipes, Community articles and Github documentations created by 
         </td>
    </tr> 
     <tr>
-        <td>6</td>
+        <td>7</td>
         <td>Installing WAS ND, MoRE and Liberty in Linux (Ubundu)</td>
         <td>MoRE, WebSphere Liberty</td>
         <td>
@@ -57,7 +63,7 @@ IBM Developer, Recipes, Community articles and Github documentations created by 
         </td>
    </tr> 
       <tr>
-        <td>7</td>
+        <td>8</td>
         <td>Modernized Runtime Extension for Java (MoRE)</td>
         <td>MoRE, WebSphere Liberty</td>
         <td>
@@ -65,7 +71,7 @@ IBM Developer, Recipes, Community articles and Github documentations created by 
         </td>
    </tr> 
       <tr>
-        <td>8</td>
+        <td>9</td>
         <td>IBM Mono2Micro</td>
         <td>Cloud Pak for Apps</td>
         <td>
@@ -73,7 +79,7 @@ IBM Developer, Recipes, Community articles and Github documentations created by 
         </td>
    </tr>               
     <tr>
-        <td>9</td>
+        <td>10</td>
         <td>Integrating Turbonomic with Envizi via webMethods for Green IT data</td>
         <td>Envizi, webMethods, Turbonomic</td>
         <td>
@@ -81,7 +87,7 @@ IBM Developer, Recipes, Community articles and Github documentations created by 
         </td>
    </tr>
     <tr>
-        <td>10</td>
+        <td>11</td>
         <td>Managing emission data in travel and transportation with Envizi</td>
         <td>Envizi</td>
         <td>
@@ -89,7 +95,7 @@ IBM Developer, Recipes, Community articles and Github documentations created by 
         </td>
    </tr>
     <tr>
-        <td>11</td>
+        <td>12</td>
         <td>ESG forecasting with IBM Envizi and Planning Analytics</td>
         <td>Envizi</td>
         <td>
@@ -97,7 +103,7 @@ IBM Developer, Recipes, Community articles and Github documentations created by 
         </td>
    </tr>
     <tr>
-        <td>12</td>
+        <td>13</td>
         <td>Turbonomic and Envizi Integration - info</td>
         <td>Envizi, Turbonomic</td>
         <td>
