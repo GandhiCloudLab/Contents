@@ -18,8 +18,8 @@ IBM Developer, Recipes, Community articles and Github documentations created by 
    </tr>
     <tr>
         <td>2</td>
-        <td>Watsonx Orchestrate </td>
         <td>watsonx Orchestrate Flow builder - Finding News Alerts between cities</td>
+        <td>Watsonx Orchestrate </td>
         <td><a href="https://github.com/GandhiCloudLab/ibm-watsonx-orchestrate/tree/main/020-flow">Article</a></td>
    </tr>     
     <tr>
