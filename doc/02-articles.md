@@ -73,6 +73,7 @@ IBM Developer, Recipes, Community articles and Github documentations created by 
    </tr> 
        <tr>
         <td>11</td>
+        <td>Installing Instana Agent on Windows</td>
         <td>IBM Concert</td>
         <td><a href="https://github.com/GandhiCloudLab/ibm-instana/tree/main/52-installing-instana-agent-in-windows">Tutorial</a></td>
    </tr> 
@@ -91,7 +92,7 @@ IBM Developer, Recipes, Community articles and Github documentations created by 
        <tr>
         <td>14</td>
         <td>Creating an Application SBOM File Manually in IBM Concert</td>
-        <td>IBM Bob</td>
+        <td>IBM Concert</td>
         <td><a href="https://github.com/ibm-self-serve-assets/ibm-concert-info/blob/main/50-creating-application-sbom">Tutorial</a></td>
    </tr>            
        <tr>
