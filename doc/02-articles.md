@@ -2,6 +2,112 @@
 
 IBM Developer, Recipes, Community articles and Github documentations created by Gandhi.
 
+
+## 2026
+<table>
+    <thead>
+        <th>S.No</th>
+        <th>Topics</th>
+        <th>IBM Products / Offerings</th>
+        <th>Links</th>
+    </thead>
+    <tr>
+        <td>1</td>
+        <td>IBM Bob Java Modernization: Migrating Legacy Struts Application into a Modern React & Spring Boot Microservices</td>
+        <td>IBM Bob</td>
+        <td><a href="https://github.com/ibm-self-serve-assets/ibm-bob-java-modernization-struts-to-springboot-react" >Tutorial</a> &nbsp;&nbsp; <a href="https://partner.sandbox.cis.ibm.net/5a8cc827-af24-4ad5-ae8c-b8cdc02363e9/asset/ac-mrl1cemcjtfl" >Video</a>  </td>
+   </tr>
+    <tr>
+        <td>2</td>
+        <td>IBM Bob to generate terraform and ansible script for Setting Up Infrastructure and Deploying an AI‑Based Application</td>
+        <td>IBM Bob</td>
+        <td><a href="https://github.com/GandhiCloudLab/ibm-bob-terraform-ansible-instana-logistics-app">Tutorial</a></td>
+   </tr>  
+    <tr>
+        <td>3</td>
+        <td>Developing a Meeting Room Booking Application Using IBM Bob</td>
+        <td>IBM Bob</td>
+        <td><a href="https://github.com/GandhiCloudLab/ibm-bob-meeting-room-booking-app">Tutorial</a> &nbsp;&nbsp;<a href="https://partner.sandbox.cis.ibm.net/5a8cc827-af24-4ad5-ae8c-b8cdc02363e9/asset/ac-mqt3l9af0g7b">Video</a>  </td>
+   </tr>   
+    <tr>
+        <td>4</td>
+        <td>Create and Deploy an app in IBM Code Engine using IBM Bob</td>
+        <td>IBM Bob</td>
+        <td><a href="https://github.com/GandhiCloudLab/ibm-bob-code-engine-deploy">Tutorial</a></td>
+   </tr> 
+    <tr>
+        <td>5</td>
+        <td>Mobile Apps Monitoring - Flutter Based</td>
+        <td>IBM Instana</td>
+        <td><a href="https://github.com/GandhiCloudLab/ibm-instana/blob/main/10-mobile-apps-monitoring">Tutorial</a></td>
+   </tr> 
+       <tr>
+        <td>6</td>
+        <td>Mobile Apps Backend Services Monitoring</td>
+        <td>IBM Instana</td>
+        <td><a href="https://github.com/GandhiCloudLab/ibm-instana/blob/main/11-mobile-apps-backend-services-monitoring">Tutorial</a></td>
+   </tr> 
+       <tr>
+        <td>7</td>
+        <td>Synthetic Monitoring</td>
+        <td>IBM Instana</td>
+        <td><a href="https://github.com/GandhiCloudLab/ibm-instana/blob/main/21-synthetic-monitoring-simple">Tutorial</a></td>
+   </tr> 
+       <tr>
+        <td>8</td>
+        <td>Installing Instana Server on an Ubuntu VM</td>
+        <td>IBM Instana</td>
+        <td><a href="https://github.com/GandhiCloudLab/ibm-instana/tree/main/50-installing-instana-server-in-ubuntu">Tutorial</a></td>
+   </tr> 
+       <tr>
+        <td>9</td>
+        <td>Installing Instana Agent on Linux</td>
+        <td>IBM Instana</td>
+        <td><a href="https://github.com/GandhiCloudLab/ibm-instana/tree/main/51-installing-instana-agent-in-linux">Tutorial</a></td>
+   </tr> 
+       <tr>
+        <td>10</td>
+        <td>Installing Instana Agent on Windows</td>
+        <td>IBM Instana</td>
+        <td><a href="https://github.com/GandhiCloudLab/ibm-instana/tree/main/52-installing-instana-agent-in-windows">Tutorial</a></td>
+   </tr> 
+       <tr>
+        <td>11</td>
+        <td>IBM Concert</td>
+        <td><a href="https://github.com/GandhiCloudLab/ibm-instana/tree/main/52-installing-instana-agent-in-windows">Tutorial</a></td>
+   </tr> 
+       <tr>
+        <td>12</td>
+        <td>IBM Concert Vulnerability Management for Ubuntu VMs using Qualys Scan Reports</td>
+        <td>IBM Concert</td>
+        <td><a href="https://github.com/ibm-self-serve-assets/Concert-Vulnerability-Management-for-Ubuntu-VMs-using-Qualys-Scan">Tutorial</a>&nbsp;&nbsp;<a href="https://partner.sandbox.cis.ibm.net/5a8cc827-af24-4ad5-ae8c-b8cdc02363e9/asset/ac-mqyq760mfxzs">Video</a> </td>
+   </tr>            
+       <tr>
+        <td>13</td>
+        <td>Installing Concert on VM using Quick Start mode</td>
+        <td>IBM Concert</td>
+        <td><a href="https://github.com/ibm-self-serve-assets/ibm-concert-info/blob/main/10-install-on-vm-quick-start-mode">Tutorial</a></td>
+   </tr>            
+       <tr>
+        <td>14</td>
+        <td>Creating an Application SBOM File Manually in IBM Concert</td>
+        <td>IBM Bob</td>
+        <td><a href="https://github.com/ibm-self-serve-assets/ibm-concert-info/blob/main/50-creating-application-sbom">Tutorial</a></td>
+   </tr>            
+       <tr>
+        <td>15</td>
+        <td>Installing API Connect in AKS /GKE</td>
+        <td>IBM API Connect</td>
+        <td><a href="https://github.com/GandhiCloudLab/ibm-api-connect/tree/main/02-install-in-aks-gke">Tutorial</a></td>
+   </tr>            
+       <tr>
+        <td>16</td>
+        <td>Installing API Connect in EKS</td>
+        <td>IBM API Connect</td>
+        <td><a href="https://github.com/GandhiCloudLab/ibm-api-connect/tree/main/03-install-in-eks">Tutorial</a></td>
+   </tr>            
+</table>
+
 ## 2025
 <table>
     <thead>

@@ -45,6 +45,11 @@
    </tr>  
     <tr>
         <td>7</td>
+        <td>Logistics Application</td>
+        <td><a href="https://github.com/GandhiCloudLab/cfow-logistics-app">Link</a></td>
+   </tr>  
+    <tr>
+        <td>7</td>
         <td>Envizi Location Serivce </td>
         <td><a href="https://github.com/GandhiCloudLab/envizi-location-service">Link</a></td>
    </tr>  
