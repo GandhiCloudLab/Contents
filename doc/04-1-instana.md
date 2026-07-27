@@ -24,7 +24,6 @@
        <tr>
         <td>4</td>
         <td>Installing Instana Server on an Ubuntu VM</td>
-        <td>IBM Instana</td>
         <td><a href="https://github.com/GandhiCloudLab/ibm-instana/tree/main/50-installing-instana-server-in-ubuntu">Tutorial</a></td>
    </tr> 
        <tr>

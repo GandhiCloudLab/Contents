@@ -100,27 +100,34 @@
    </tr>  
     <tr>
         <td>13</td>
+        <td>Logistics Application</td>
+        <td>Instana</td>
+        <td>Python, Flask</td>
+        <td><a href="https://github.com/GandhiCloudLab/cfow-logistics-app">Link</a></td>
+   </tr>     
+    <tr>
+        <td>14</td>
         <td>Envizi Location Serivce </td>
         <td>Envizi</td>
         <td>Python, Flask</td>
         <td><a href="https://github.com/GandhiCloudLab/envizi-location-service">Link</a></td>
    </tr>  
     <tr>
-        <td>14</td>
+        <td>15</td>
         <td>IBM Cloud Module Provisioner (Microservices) </td>
         <td>Envizi</td>
         <td>Python, Flask</td>
         <td><a href="https://github.com/GandhiCloudLab/ibm-cloud-module-provisioner">Link</a></td>
    </tr>  
     <tr>
-        <td>15</td>
+        <td>16</td>
         <td>IDepo App (Microservices) </td>
         <td></td>
         <td>Java, SpringBoot, Microservices</td>        
         <td><a href="https://github.com/GandhiCloudLab/idepo-app">Link</a></td>
    </tr>  
     <tr>
-        <td>16</td>
+        <td>17</td>
         <td>Catalog App for Service Discovery </td>
         <td></td>
         <td>Java, JSP</td>        
@@ -130,14 +137,14 @@
         <td colspan=3><strong>Argo CD Apps</strong></td>
    </tr>     
     <tr>
-        <td>17</td>
+        <td>18</td>
         <td>Argo-App-ilender </td>
         <td></td>
         <td>ArgoCD, OpenShift</td>
         <td><a href="https://github.com/GandhiCloudLab/argo-app-ilender">Link</a></td>
    </tr>     
     <tr>
-        <td>18</td>
+        <td>19</td>
         <td>Deploy iLender app with GitOps using ArgoCD and Kustomize </td>
         <td></td>
         <td>ArgoCD, OpenShift</td>
